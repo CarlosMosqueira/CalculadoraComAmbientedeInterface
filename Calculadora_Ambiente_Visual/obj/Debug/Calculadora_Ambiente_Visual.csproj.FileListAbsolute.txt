@@ -1,0 +1,10 @@
+C:\Users\cajun\Desktop\DOTNET\Grafico\Nova pasta\Calculadora_Ambiente_Visual\bin\Debug\Calculadora_Ambiente_Visual.exe.config
+C:\Users\cajun\Desktop\DOTNET\Grafico\Nova pasta\Calculadora_Ambiente_Visual\bin\Debug\Calculadora_Ambiente_Visual.exe
+C:\Users\cajun\Desktop\DOTNET\Grafico\Nova pasta\Calculadora_Ambiente_Visual\bin\Debug\Calculadora_Ambiente_Visual.pdb
+C:\Users\cajun\Desktop\DOTNET\Grafico\Nova pasta\Calculadora_Ambiente_Visual\obj\Debug\Calculadora_Ambiente_Visual.csprojAssemblyReference.cache
+C:\Users\cajun\Desktop\DOTNET\Grafico\Nova pasta\Calculadora_Ambiente_Visual\obj\Debug\Calculadora_Ambiente_Visual.Form1.resources
+C:\Users\cajun\Desktop\DOTNET\Grafico\Nova pasta\Calculadora_Ambiente_Visual\obj\Debug\Calculadora_Ambiente_Visual.Properties.Resources.resources
+C:\Users\cajun\Desktop\DOTNET\Grafico\Nova pasta\Calculadora_Ambiente_Visual\obj\Debug\Calculadora_Ambiente_Visual.csproj.GenerateResource.cache
+C:\Users\cajun\Desktop\DOTNET\Grafico\Nova pasta\Calculadora_Ambiente_Visual\obj\Debug\Calculadora_Ambiente_Visual.csproj.CoreCompileInputs.cache
+C:\Users\cajun\Desktop\DOTNET\Grafico\Nova pasta\Calculadora_Ambiente_Visual\obj\Debug\Calculadora_Ambiente_Visual.exe
+C:\Users\cajun\Desktop\DOTNET\Grafico\Nova pasta\Calculadora_Ambiente_Visual\obj\Debug\Calculadora_Ambiente_Visual.pdb
